@@ -2,3 +2,15 @@
     width: auto;
     height: 300px;
 }
+
+.description{
+    background-color: rgba(240, 8, 8, 0.459);
+}
+
+.ingredients{
+    background-color: rgba(0, 0, 255, 0.37);
+}
+
+.steps{
+    background-color: rgba(35, 245, 35, 0.445);
+}
