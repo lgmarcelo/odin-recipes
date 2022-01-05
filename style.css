@@ -1,3 +1,11 @@
+h1, h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .image{
     width: auto;
     height: 300px;
@@ -13,4 +21,8 @@
 
 .steps{
     background-color: rgba(35, 245, 35, 0.445);
+}
+
+.foods{
+    background-color: rgba(255, 0, 255, 0.527);
 }
